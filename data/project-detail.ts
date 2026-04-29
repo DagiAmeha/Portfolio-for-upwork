@@ -9,6 +9,16 @@ export const projects = [
     tags: ["Node.js", "pug", "Express", "MongoDB", "Stripe"],
   },
   {
+     title: "Church Management & Engagement Platform",
+    description:
+      "A digital platform for Mission for Nation Church, enabling member registration, online donations, sermon listening, and book purchasing.",
+    image: "/img/M4N.png",
+    github: "https://github.com/nathanaelcheramlak/church-backend",
+    demo: "https://youtube.com/shorts/oMOzxshmn7E?feature=share",
+    tags: ["Flutter", "Express.js", "MongoDB", "Chappa"],
+  }  
+  ,
+  {
     title: "Recipe Search & Sharing Website",
     description:
       "A recipe platform allowing users to search through over 1,000,000 recipes and add their own creations.",
@@ -36,13 +46,4 @@ export const projects = [
     tags: ["Flutter", "Gemini API "],
   },
 
-  {
-    title: "Command Line App",
-    description:
-      "A command-line application that displays system information about the computer.",
-    image: "/img/cli-app.jpg",
-    github: "https://github.com/DagiAmeha/CLI-app",
-    demo: "https://github.com/DagiAmeha/CLI-app",
-    tags: ["Node.js"],
-  },
 ];
